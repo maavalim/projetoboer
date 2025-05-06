@@ -25,6 +25,8 @@ const Register = () => {
             return
         }
         const res= await createUser (user);
+
+        
     }
     return (
         <div>
